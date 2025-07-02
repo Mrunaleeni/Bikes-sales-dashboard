@@ -70,7 +70,7 @@ The dashboard is dynamic and interactive, allowing users to filter data and expl
   - Conditional Formatting
 ## 📸 Dashboard Snapshot
 
-![Bike Sales Dashboard](./C:\Users\mruna\OneDrive\Desktop\dashboard.png)
+![Bike Sales Dashboard](./dashboard.png)
 
 
 
